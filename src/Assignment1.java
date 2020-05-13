@@ -9,7 +9,7 @@
  */
 
 // The purpose of this class is to learn about Java algebraic operators,
-// variables, and the printf method. ahahahahah
+// variables, and the printf method. 
 public class Assignment1 {
 
     public static void main(String[] args) {
